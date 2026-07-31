@@ -50,7 +50,7 @@ Open the `index.html` file and begin personalizing it. The file contains helpful
 - Your name and title
 - Social media links
 - The "About Me" section
-- Your project titles, descriptions, and links
+- Your project titles, descriptions, and links 
 - Your list of skills
 
 ### 4. Add Your Files
