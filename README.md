@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Elijah Edward - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -14,14 +14,14 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Project Title Olympics Athletes Analysis
+*Designed a Tableau dashboard to explore Olympic athlete demographics and medal trends.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Project Title Supermarket Sales Analysis
+*Built a Tableau dashboard to explore supermarket sales performance and customer behavior.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Project Title Mobile Phone Sales Analysis
+*Built a Power BI dashboard to track mobile phone sales performance..*
 
 
 ## 🛠️ Skills
@@ -31,7 +31,7 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+
 
 ## 💡 How to Use This Template
 
