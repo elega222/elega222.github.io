@@ -499,3 +499,14 @@ footer p {
 .project-buttons {
   margin-top: 5px; /* small gap before the button */
 }
+.project-card-content h3 {
+  margin-bottom: 6px; /* reduce space under the header */
+}
+
+.project-card-content p {
+  margin-bottom: 8px; /* reduce space under the description */
+}
+
+.project-buttons {
+  margin-top: 0; /* remove extra gap before the button */
+}
